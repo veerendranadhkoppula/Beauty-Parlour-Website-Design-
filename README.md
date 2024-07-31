@@ -34,6 +34,6 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/beauty-parlour.git
    cd beauty-parlour
-npm install
-npm start
-Open your browser and navigate to http://localhost:3000 to see the website in action
+## npm install
+## npm start
+## Open your browser and navigate to http://localhost:3000 to see the website in action
