@@ -1,0 +1,48 @@
+.stylists {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .stylists h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #f8b400;
+  }
+  
+  .stylist-profiles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+  }
+  
+  .stylist-card {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    max-width: 300px;
+    transition: transform 0.3s ease;
+  }
+  
+  .stylist-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .stylist-card img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+  }
+  
+  .stylist-card h3 {
+    margin: 0.5rem 0;
+    font-size: 1.2rem;
+  }
+  
+  .stylist-card p {
+    margin: 0;
+    color: #666;
+  }
+  

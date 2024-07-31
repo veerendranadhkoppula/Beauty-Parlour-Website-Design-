@@ -1,0 +1,29 @@
+.services {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .services h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #f8b400;
+  }
+  
+  .service-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .service-list li {
+    padding: 1rem;
+    background: #fff;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .service-list li:hover {
+    transform: scale(1.02);
+  }
+  

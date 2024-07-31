@@ -1,0 +1,35 @@
+.home {
+    text-align: center;
+    padding: 3rem 1rem;
+    background: #fff;
+    color: #333;
+  }
+  
+  .home-header {
+    margin-bottom: 2rem;
+  }
+  
+  .home-header h2 {
+    font-size: 2.5rem;
+    color: #f8b400;
+  }
+  
+  .home-header p {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+  }
+  
+  .home-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .home-gallery img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
