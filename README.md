@@ -12,6 +12,8 @@ Welcome to the Beauty Parlour website project! This repository contains the sour
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
 
+## Live Demo - https://beauty-parlour-website.netlify.app/
+
 ## Introduction
 
 The Beauty Parlour website is designed to provide an intuitive and visually appealing interface for visitors. It includes pages for services, stylist profiles, and an appointment booking form. The site is mobile-responsive and cross-browser compatible, ensuring a seamless experience for users on all devices.
